@@ -3,7 +3,7 @@ import os
 import telebot
 
 
-bot = telebot.TeleBot('7599854882:AAFUkOqXaCSmNNroYqQlhnP6PBCKgD7Ndr0')
+bot = telebot.TeleBot('7819572864:AAF16qpud2OcyfKwGc37WyjxOifCP70D9KQ')
 
 month_mapping = {
     '01': 'января',
